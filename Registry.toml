@@ -1,0 +1,5 @@
+name = "TommysRegistry"
+uuid = "924364b3-aa26-4a4e-b826-36a413ad8f92"
+repo = "https://github.com/thofma/Registry"
+
+[packages]
