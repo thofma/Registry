@@ -1,4 +1,9 @@
 [0]
 MagmaCall = "0.1"
-MagmaGroups = "1"
 Reexport = "1.2.2 - 1"
+
+["0 - 0.1.0"]
+MagmaGroups = "1"
+
+["0.1.1 - 0"]
+MagmaGroups = "0.0.1"
